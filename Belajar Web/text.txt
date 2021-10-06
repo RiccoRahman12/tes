@@ -1,5 +1,5 @@
 Folder Belajar Web di buat saat saya masih smk
-Sebelumnya Saya belum tau dengan yang namanya github, jadi saya selalu menyimpan di laptop saya
+Sebelumnya Saya belum tau dengan yang namanya github, jadi saya selalu menyimpan di laptop dan flashdisk saya
 saya mengikuti berbagai cara untuk bisa belajar web,mulai dari belajar dengan kakak kelas saya sampai saya dipilih pkl di sekolah oleh guru saya
 dari situ saya bisa banyak belajar berbagai hal, mulai dari membuat web, membuat database, mengoprasikan visual basic, membuat kabel jaringan,
 bongkar pasang komputer (jika ada kerusankan), dan saya sampai menjadi seorang yang bisa dibilang (teknisi) membantu guru komputer saya pada saat
@@ -8,5 +8,8 @@ dan juga membantu guru komputer saya (ketua lab kompuer), sebelumnya ada kakak k
 yang hanya saya ketahui yang pkl di sekolah cuma ada 2 angkatan, angkatan sebelumnya (kakak kelas saya) dan angkatan saya, 
 untuk angkatan selanjutnya saya tidak tahu dikarenakan kondisi pandemi seperti ini dan juga masih sekolah online, saya senang dengan yang saya lakukak
 saya bisa mendapatkan ilmu yang banyak
+
+*/ada beberapa file saya yang hilang/corrupt, jadi hanya beberapa file yang bisa saya upload/*
+
 ILMU ITU PENTING!! TIDAK ADA ILMU YANG PERCUMA, SEMUA ILMU BERMANFAAT DAN AKAN TERPAKAI DI WAKTU YANG TEPAT
 
